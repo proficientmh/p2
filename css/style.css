@@ -914,8 +914,8 @@ li {
     .bigB .texts .link {
         margin-top: 13px;
     }
-    ..navbar .brand-logo .imggg {
-        width: 55px;
+    .navbar .brand-logo .imggg {
+        width: 55px !important;
         display: table;
         margin: auto;
     }
