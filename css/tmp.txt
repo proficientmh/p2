@@ -1,0 +1,11 @@
+font-family: prata;
+
+font-family: pnsbold;
+
+font-family: pnsexbold;
+
+font-family: pnsmudiam;
+
+font-family: pnsregular;
+
+font-family: pnsemibold;
