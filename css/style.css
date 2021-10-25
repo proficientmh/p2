@@ -75,6 +75,9 @@ li {
     color: #AC041C;
 }
 
+.all {
+    overflow: hidden;
+}
 
 /*navbar for mobile*/
 
